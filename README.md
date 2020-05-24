@@ -1,13 +1,13 @@
 # Snake Game
 CS 343 Project<br>
-Made by Hieu Pham, Sean Masterson, Brandon Walker, Alex Banh
-Control your snake and eat as many apples as possible while avoiding the mines and the death snake.
+Made by Hieu Pham, Sean Masterson, Brandon Walker, Alex Banh<br>
+Control your snake and eat as many apples as possible while avoiding the mines and the death snake.<br>
 
-Controls:
-Up: W or Up Arrow
-Down: S or Down Arrow
-Left: A or Left Arrow
-Right: D or Right Arrow
+Controls:<br>
+Up: W or Up Arrow<br>
+Down: S or Down Arrow<br>
+Left: A or Left Arrow<br>
+Right: D or Right Arrow<br>
 
 Rules:
 1.	Reversing directions (Ex. Move from up to down or left to right) will cause you to lose the game unless you have not eaten any apples yet.
