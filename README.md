@@ -1,5 +1,5 @@
 # Snake Game
-CS 343 Project
+CS 343 Project<br>
 Made by Hieu Pham, Sean Masterson, Brandon Walker, Alex Banh
 Control your snake and eat as many apples as possible while avoiding the mines and the death snake.
 
